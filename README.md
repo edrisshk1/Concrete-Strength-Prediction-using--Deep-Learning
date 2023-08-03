@@ -1,6 +1,6 @@
 # 🧱 Concrete Strength Prediction using Deep Learning
 
-This repository contains a model training and evaluation for the prediction of concrete compressive strength prediction using a Concrete info dataset from Kaggle using multiple libraries especially Keras which is an upper layer using the low layer library TensorFlow developed and maintained by Google for building and training neural networks and Scikit-learn for model evaluation.
+This repository contains model training and evaluation for the prediction of concrete compressive strength using a Concrete info dataset from Kaggle, using multiple libraries like Keras which is an upper layer using the low layer library TensorFlow developed and maintained by Google for building and training neural networks and Scikit-learn for model evaluation.
 
 ![concrete](https://github.com/edrisshk1/Concrete-Strength-Prediction-using-Deep-Learning/assets/122979130/eda3aba5-7a3d-4a1e-952a-2454f2a96277)
 
